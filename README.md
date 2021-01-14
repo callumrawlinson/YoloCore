@@ -41,3 +41,49 @@ YoloCore is a fully customizable Pocketmine server core with hundreds of feature
 33. ✔️ Website Support  
 34. ✔️ Discord Support  
 35. ✔️ SoulwellAPI  
+
+
+commands:
+1.  yolo.cmd.nick
+2.  yolo.cmd.nick
+3.  yolo.cmd.day
+4. yolo.cmd.night
+5.  yolo.cmd.effects
+6.  yolo.feed
+7.   yolo.cmd.heal
+8.  yolo.cmd.gmc
+9. yolo.cmd.gms
+10.   yolo.cmd.gma
+11.   yolo.cmd.gmspc
+12.  yolo.cmd.ci
+13.  yolo.cmd.broadcast
+14.  yolo.cmd.fly
+15. yolo.cmd.god
+16.  yolo.cmd.tags
+17. yolo.cmd.bansystem
+18. yolo.cmd.ranksystem
+19. yolo.cmd.spawner
+20. yolo.cmd.item
+21.  yolo.cmd.vanish
+22. yolo.bypass:
+23.  yolo.vanish.see:
+24.  bs.cmd.ban
+25. : bs.cmd.banip 
+26. : bs.cmd.banlist 
+27. : bs.cmd.blocklist 
+28. : bs.cmd.kick 
+29. : bs.cmd.mute 
+30. : bs.cmd.muteip
+31. : bs.cmd.mutelist 
+32. : bs.cmd.pardon 
+33. : bs.cmd.pardonip
+34. : bs.cmd.tban
+35. : bs.cmd.tbanip
+36. : bs.cmd.tmute
+37. : bs.cmd.tmuteip 
+38. : bs.cmd.unban
+39. : bs.cmd.unbanip
+40. : bs.cmd.unmute 
+41. : bs.cmd.unmuteip 
+42. : deathban.command 
+43. : bs.cmd.mute
