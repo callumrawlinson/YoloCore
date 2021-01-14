@@ -1,0 +1,83 @@
+name: YoloCore
+description: Yolo Core
+version: 1
+main: Yolo\Core
+author: CallumRawlinson
+website: https://github.com/callumrawlinson
+api: 3.0.0
+commands:
+ nick:
+  description: Set yourself a nickname
+  permission: yolo.cmd.nick
+ unnick:
+  description: UnNick yourself
+  permission: yolo.cmd.nick
+ day:
+  description: Sets World time to day
+  permission: yolo.cmd.day
+ night:
+  description: Sets World time to night
+  permission: yolo.cmd.night
+ effects:
+  description: Gives Effects
+  permission: yolo.cmd.effects
+ feed:
+  description: Feeds you
+  permission: yolo.feed
+ heal:
+  description: Heals you
+  permission: yolo.cmd.heal
+ gmc:
+  description: Sets gamemode to Creative
+  permission: yolo.cmd.gmc
+ gms:
+  description: Sets gamemode to Survival
+  permission: yolo.cmd.gms
+ gma:
+  description: Sets gamemode to Adventure
+  permission: yolo.cmd.gma
+ gmspc:
+  description: Sets gamemode to Spectator
+  permission: yolo.cmd.gmspc
+ ci:
+  description: Clears your inventory
+  permission: yolo.cmd.ci
+ broadcast:
+  aliases: [bs, bcast]
+  description: Send a broadcast message
+  permission: yolo.cmd.broadcast
+ fly:
+  description: Enables/Disables Flight
+  permission: yolo.cmd.fly
+ god:
+  description: Enables/Disables GodMode
+  permission: yolo.cmd.god
+ tags:
+  description: Opens TagsUI
+  permission: yolo.cmd.tags
+ bansystem:
+  aliases: [bs]
+  description: Opens BanUI
+  permission: yolo.cmd.bansystem
+ ranksystem:
+  aliases: [rs]
+  description: Opens RankUI
+  permission: yolo.cmd.ranksystem
+ spawner:
+  description: Opens SpawnerShopGUI
+  permission: yolo.cmd.spawner
+ item:
+  aliases: [brag]
+  description: Brag the item you are holding
+  permission: yolo.cmd.item
+ vanish:
+  aliases: [v]
+  description: Enables/Disables Vanish
+  permission: yolo.cmd.vanish
+ permissions:
+  yolo.bypass:
+   default: op
+   description: Allows to override login
+  yolo.vanish.see:
+   default: op
+   description: Allows to see Vanished Players

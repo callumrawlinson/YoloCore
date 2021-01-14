@@ -1,0 +1,28 @@
+# Settings.yml Configuration file - CombatLogger v0.0.5
+---
+# Time before a player can logout safely or execute commands (in seconds)
+time: 10
+# Kill a player if they disconnect whilst in combat
+kill-on-log: true
+# List of commands players cannot execute while in combat
+banned-commands:
+  - tp
+  - warp
+  - tpa
+  - spawn
+  - hub
+  - lobby
+  - tpaccept
+  - tpahere
+  - gmc
+  - gmspc
+  - gamemode
+  - god
+  - vanish
+  - teleport
+  - fly
+messages:
+ player-tagged: "§8(§cIntelPVP§8) §7You are now in combat, do not logout or you will be punished!"
+ player-tagged-timeout: "§8(§cIntelPVP§8) §7You are no longer in combat!"
+ player-run-banned-command: "§8(§cIntelPVP§8) §7You cannot execute this command whilst in combat!"
+...
