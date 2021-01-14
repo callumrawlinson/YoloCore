@@ -42,8 +42,7 @@ YoloCore is a fully customizable Pocketmine server core with hundreds of feature
 34. ✔️ Discord Support  
 35. ✔️ SoulwellAPI  
 
-
-commands:
+### Permissions:
 1.  yolo.cmd.nick
 2.  yolo.cmd.nick
 3.  yolo.cmd.day
