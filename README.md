@@ -2,6 +2,8 @@
 
 [![](https://poggit.pmmp.io/shield.state/YoloCore)](https://poggit.pmmp.io/p/YoloCore)
 <a href="https://poggit.pmmp.io/p/YoloCore"><img src="https://poggit.pmmp.io/shield.state/YoloCore"></
+[![](https://poggit.pmmp.io/shield.api/YoloCore)](https://poggit.pmmp.io/p/YoloCore)
+<a href="https://poggit.pmmp.io/p/YoloCore"><img src="https://poggit.pmmp.io/shield.api/YoloCore"></a>
 
 ![1](https://github.com/callumrawlinson/YoloCore/blob/main/images/title.png)  
 
