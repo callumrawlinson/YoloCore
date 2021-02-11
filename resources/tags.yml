@@ -1,0 +1,13 @@
+#How to create a tag
+#0: "Number"
+# - permission
+# - "Tags"
+0:
+  - lvcore.tag.1
+  - "[tag1]"
+1:
+  - lvcore.tag.2
+  - "[xaxa4]"
+2:
+  - lvcore.tag.3
+  - "xaxa6"
